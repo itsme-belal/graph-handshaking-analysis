@@ -89,14 +89,6 @@ This occurs because the program checks possible edges between every pair of vert
 
 ---
 
-## 📄 Project Report
-
-You can read the full report here:
-
-(project-report.pdf)
-
----
-
 ## 👨‍💻 Authors
 
 * Belal Hossain
